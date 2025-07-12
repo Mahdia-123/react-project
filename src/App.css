@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+  margin-top: 70px;
+  color: #042d4f;
+}
+body {
+  background: #deebf3;
+}
+.App {
+  max-width: 700px;
+  margin: 0 auto;
+  background: white;
+  border: none;
+  box-shadow: 6px 8px 16px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+  margin-top: 50px;
+}
