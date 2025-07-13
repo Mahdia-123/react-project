@@ -9,9 +9,13 @@ function App() {
         <h1>Weather Search Engine</h1>
         <Weatherapp />
         <footer>
-          This page was coded by <a href="/">Mahdia Khamoosh</a> and is{" "}
-          <a href="/">open-sourced o Github</a> hosted on{" "}
-          <a href="/">Netlify</a>
+          This page was coded by{" "}
+          <a href="https://github.com/Mahdia-123">Mahdia Khamoosh</a> and is{" "}
+          <a href="https://github.com/Mahdia-123/react-project">
+            open-sourced o Github
+          </a>{" "}
+          hosted on{" "}
+          <a href="https://lovely-weather-search.netlify.app/">Netlify</a>
         </footer>
       </header>
     </div>
